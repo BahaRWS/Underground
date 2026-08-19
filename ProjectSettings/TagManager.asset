@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - trap
+  - arrow triger
+  - player
+  - attack zone
+  - bear
+  - boos
+  - press
+  - newpress
+  - chest
+  - posion
+  - sword
+  - sound1
+  - sound
+  - superdoor
+  - superdoor1
+  - post
+  - border2
+  - rocks
+  - chest10
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - boeder
+  - Water
+  - UI
+  - pp
+  - back
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: border
+    uniqueID: 867627575
+    locked: 0
